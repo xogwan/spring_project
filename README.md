@@ -1,1 +1,2 @@
-# spring_project
+# springProject
+spring-project use Gradle
