@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rect&color=auto&height=150&section=header&text=🌽너와농부싶어🌽&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=rect&color=auto&height=150&section=header&text=🥕너와농부싶어🥕&fontSize=90)
 
 ## 청년농 귀농귀촌 지원 프로젝트 - '너와농부싶어'
 너와 농부 싶어는 귀농귀촌에 관심이 있거나 원하는 사람들에게 도움을 주는 교육 및 커뮤니티 사이트입니다.<br>
