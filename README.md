@@ -14,3 +14,24 @@
 
 ## 프로젝트 사용 툴
 <img width="1170" alt="스크린샷 2022-12-31 오후 9 46 18" src="https://user-images.githubusercontent.com/114145422/210137190-afcc274d-b0c3-4b59-a43b-39b50d90ddd4.png">
+
+## ERD
+![codefarmer](https://user-images.githubusercontent.com/114145422/210138355-470133f3-a6a6-4811-babb-d4545145e2be.png)
+
+## 프로젝트에서 맡은 업무
+▶︎ 아르바이트<br><br>
+    • 게시글 작성, 수정, 삭제<br>
+    • 게시글 리스트 출력(페이징 처리)<br>
+    • 게시글 세부 페이지 출력<br>
+    • 아르바이트 지원하기 및 취소하기<br>
+    • 카카오지도 api 사용하여 위치 출력<br><br>
+  
+▶︎ OAuth<br><br>
+    • 네이버 OAuth 구현<br>
+    
+## 어려웠던 부분
+SpringBoot를 처음 배우고 
+
+  
+  
+  
